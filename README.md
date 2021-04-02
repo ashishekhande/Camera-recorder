@@ -9,6 +9,7 @@ npm install
 
 #To start Application:
 expo start
+
 #Scan barcode in android device to build javascript bundle and open application
 
 
